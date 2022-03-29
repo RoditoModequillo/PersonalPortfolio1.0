@@ -21,7 +21,7 @@ nav{
   justify-content: space-between;
 }
 .head .rdts{
-     font-size: 30px;
+     font-size: 40px;
      letter-spacing: 4px;
      display: inline-block;
      margin-bottom: 10px;   
@@ -31,7 +31,7 @@ nav{
   text-decoration: none;
   margin-left:0;
   color:#fd4766;
-  font-size: 50px;
+  font-size:40px;
 }
 /* To display the navigation bar horizontally */
 .head ul li{
