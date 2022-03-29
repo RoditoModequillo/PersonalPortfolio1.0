@@ -4,12 +4,11 @@ body{
   background-attachment: fixed;  
   background-size:cover;
   font-family:courier;
-  color:white;
 }
 nav{
   position: fixed;
   background-color:#808080;
-  width: 97%;
+  width:97%;
   padding: 4px;
   border-radius: 10px;
   
